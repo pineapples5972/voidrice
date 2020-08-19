@@ -12,14 +12,5 @@ I added some of my custom scripts for my need exclusively.
 	- added dt's vifmrun script in `~/.local/bin` to get image preview in vifm *successfully*.
         - Other things are similar to luke's version:
 
-## Install these dotfiles
 
-Use [LARBS](https://larbs.xyz) to autoinstall everything:
 
-```
-curl -LO larbs.xyz/larbs.sh
-```
-
-or clone the repo files directly to your home directory and install [the prerequisite programs](https://github.com/LukeSmithxyz/LARBS/blob/master/progs.csv).
-
-Go and Support **Luke Smith** https://lukesmith.xyz
